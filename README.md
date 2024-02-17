@@ -1,2 +1,3 @@
 # Student-Hashir
-This is my first repository
+This is my first repository.
+Author - Hashir Jan
